@@ -1,3 +1,3 @@
-# voidbr-pkgfile
+# voidbr-xorg-common
 
-Template for VoidBR pkgmake/pkgfile packages
+VoidBR XORG Meta Package
