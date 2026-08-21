@@ -24,11 +24,12 @@ depends=(
 	xf86-video-ati
 	xinit
 	xkill
-	xorg       # Servidor X completo
-	xorg-apps  # Utilitários do Xorg
-	xorg-fonts # Fontes do Xorg
+	xorg        # Servidor X completo
+	xorg-apps   # Utilitários do Xorg
+	xorg-fonts  # Fontes do Xorg
 	xrdb
-	xterm # Terminal X11 básico (GUI)
+	xterm       # Terminal X11 básico (GUI)
+	xclip       # Command line interface to the X11 clipboard
 )
 backup=()
 
