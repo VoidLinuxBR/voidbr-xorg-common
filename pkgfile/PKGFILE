@@ -30,6 +30,7 @@ depends=(
 	xrdb
 	xterm       # Terminal X11 básico (GUI)
 	xclip       # Command line interface to the X11 clipboard
+	xorg-server-xwayland # Compatibilidade com apps X11 legados (infra Wayland)
 )
 backup=()
 
